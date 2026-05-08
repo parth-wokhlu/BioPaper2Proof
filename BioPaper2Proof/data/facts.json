@@ -1,0 +1,122 @@
+[
+  {
+    "predicate": "drives",
+    "args": [
+      "bcr_abl1_protein",
+      "cml"
+    ],
+    "pmid": "38280275",
+    "sentence": "In CML, the BCR-ABL fusion protein disrupts the first exon of Abl, leading to sustained activation of tyrosine kinase and resistance to deactivation mechanisms.",
+    "method": "rule_based"
+  },
+  {
+    "predicate": "inhibits",
+    "args": [
+      "imatinib",
+      "bcr_abl1_protein"
+    ],
+    "pmid": "38280275",
+    "sentence": "Pharmacological interventions, such as imatinib, effectively target BCR-ABL's tyrosine kinase activity by binding near the active site, disrupting ATP binding, and inhibiting downstream protein phosphorylation.",
+    "method": "rule_based"
+  },
+  {
+    "predicate": "inhibits",
+    "args": [
+      "imatinib",
+      "bcr_abl1_protein"
+    ],
+    "pmid": "22054731",
+    "sentence": "BCR-ABL mutations affect amino acids involved in imatinib binding or in regulatory regions of the BCR-ABL kinase domain, resulting in decreased sensitivity to imatinib while retaining aberrant kinase activity.",
+    "method": "rule_based"
+  },
+  {
+    "predicate": "inhibits",
+    "args": [
+      "imatinib",
+      "bcr_abl1_protein"
+    ],
+    "pmid": "26852913",
+    "sentence": "The tyrosine kinase inhibitor Imatinib Mesylate has dramatically improved the clinical outcome of chronic myeloid leukemia (CML) patients in the chronic phase of the disease, generating unprecedented rates of complete hematologic and cytogenetic responses and sustained reductions in BCR-ABL transcripts.",
+    "method": "rule_based"
+  },
+  {
+    "predicate": "drives",
+    "args": [
+      "bcr_abl1_protein",
+      "cml"
+    ],
+    "pmid": "32711219",
+    "sentence": "Chronic myeloid leukemia (CML) is a kind of myeloproliferative disorder caused by a constitutively active BCR-ABL tyrosine kinase.",
+    "method": "rule_based"
+  },
+  {
+    "predicate": "inhibits",
+    "args": [
+      "imatinib",
+      "bcr_abl1_protein"
+    ],
+    "pmid": "34157313",
+    "sentence": "These findings unraveled that HSPA8 ablation inhibits proliferation via downregulating BCR-ABL and enhances chemosensitivity of imatinib in IR-CML cells, which investigate the role and molecular mechanism of HSPA8 in IR-CML cells and suggest that HSPA8 may be a potential target for IR-CML treatment.",
+    "method": "rule_based"
+  },
+  {
+    "predicate": "inhibits",
+    "args": [
+      "ponatinib",
+      "bcr_abl1_protein"
+    ],
+    "pmid": "24258348",
+    "sentence": "Thus, a third-generation ABL TKI, ponatinib, was developed to inhibit all mutated BCR-ABL and showed clinical efficacy in CML cells harbouring T315I.",
+    "method": "rule_based"
+  },
+  {
+    "predicate": "drives",
+    "args": [
+      "bcr_abl1_protein",
+      "cml"
+    ],
+    "pmid": "21651486",
+    "sentence": "Chronic myeloid leukemia (CML) is a myeloproliferative disease originating from a constitutively active tyrosine kinase, called BCR-ABL, expressed by an oncogene resulting from a reciprocal translocation between chromosome 9 and chromosome 22, coded as (t[9,22][q34;q11]).",
+    "method": "rule_based"
+  },
+  {
+    "predicate": "inhibits",
+    "args": [
+      "imatinib",
+      "bcr_abl1_protein"
+    ],
+    "pmid": "30822403",
+    "sentence": "Chronic myelogenous leukemia (CML) is clinically treated with imatinib, which inhibits the kinase activity of the Bcr-Abl oncoprotein.",
+    "method": "rule_based"
+  },
+  {
+    "predicate": "inhibits",
+    "args": [
+      "imatinib",
+      "bcr_abl1_protein"
+    ],
+    "pmid": "30822403",
+    "sentence": "In summary, our data demonstrated that andrographolide and NCTU-322 inhibit Bcr-abl function via a mechanism different from that of imatinib, and they induced multiple anticancer effects in both imatinib-sensitive and resistant CML cells.",
+    "method": "rule_based"
+  },
+  {
+    "predicate": "inhibits",
+    "args": [
+      "imatinib",
+      "bcr_abl1_protein"
+    ],
+    "pmid": "32999163",
+    "sentence": "In the present study, we found that emodin can be a potential inhibitor for the imatinib-resistance in K562/G01 cells which are the imatinib-resistant subcellular line of human chronic myelogenous leukemia cells with overexpression of breakpoint cluster region-abelson (Bcr-Abl) oncoprotein.",
+    "method": "rule_based"
+  },
+  {
+    "predicate": "inhibits",
+    "args": [
+      "imatinib",
+      "bcr_abl1_protein"
+    ],
+    "pmid": "16093432",
+    "sentence": "Imatinib mesylate, a selective inhibitor of Bcr-Abl, has been successful in chronic myeloid leukemia clinical trials, but short-lived remissions are usually observed in blast crisis patients.",
+    "method": "rule_based"
+  }
+]
